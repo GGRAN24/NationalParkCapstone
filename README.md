@@ -62,6 +62,6 @@ the IMR National Parks, the death rate is quite low.  Even more interesting is t
 deaths in the natural untamed environments are nature related, they are more often a result of human behavior or natural causes. 
 Further analysis comparing regions would be interesting and may also allow for more questions requiring answers.
 
+
 ## PowerBI
-
-
+https://app.powerbi.com/view?r=eyJrIjoiNGYzNWU2OWMtNDBjMi00ZGY1LTljOWItOTAwOGQ3M2FlYzM1IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
